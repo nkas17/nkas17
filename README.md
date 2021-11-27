@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nkas17
+- 👋 Hi, I’m nathanmweller
 - 👀 I’m interested in JavaScript, TypeScript, React
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on anything related to JavaScript, frontends and backends
