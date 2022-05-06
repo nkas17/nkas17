@@ -1,7 +1,7 @@
 - 👋 Hi, I’m nathanmweller
 - 👀 I’m interested in JavaScript, TypeScript, React
 - 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on anything related to JavaScript, frontends and backends
+- 💞️ I’m looking to collaborate on anything related to JavaScript/TypeScript, frontends and backends
 - 📫 How to reach me - email - nkas17@gmail.com
 
 <!---
